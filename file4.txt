@@ -1,3 +1,0 @@
-Word8;
-Word9 = Word10;
-Word11
